@@ -1,0 +1,12 @@
+{
+  "name": "superhero-library",
+  "version": "1.0.0",
+  "schematics": "./collection.json",
+  "peerDependencies": {
+    "@angular/common": "^7.1.0",
+    "@angular/core": "^7.1.0"
+  },
+  "dependencies": {
+    "schematics-utilities": "^1.1.1"
+  }
+}
